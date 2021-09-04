@@ -1,6 +1,65 @@
-/* p {
-  color:green;
-} */
-* {
-  color: yellow;
+.site-header {
+  background-color: white;
+}
+.sitenav-link {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 15px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-decoration: none;
+  word-spacing: 10px;
+  color: black;
+}
+.main-link {
+  position: static;
+  width: 107px;
+  height: 15px;
+  left: 24px;
+  top: 12px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 15px;
+  letter-spacing: 0.5px;
+
+  color: #FFFFFF;
+}
+.main-link {
+  font-size: 13px;
+  line-height: 15px;
+  letter-spacing: 0.5px;
+  background-color: orange;
+  color:white;
+  text-decoration: none;
+}
+
+.hero {
+  background-color: black;
+  color: white;
+}
+.hero-content {
+  width: 390px;
+}
+.sale {
+  background-color: black;
+  color: #FFFFFF;
+}
+.sale-attraction {
+  color: darkorange;
+}
+.social-networking-icons {
+  list-style-type: none;
+}
+nav ul {
+  list-style-type:none;
+}
+.ahmad {
+  list-style-type: none;
+  color: black;
+  text-decoration: none;
 }
